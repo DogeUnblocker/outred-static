@@ -318,7 +318,7 @@ input:focus + input {
 
 .search__icon {
   height: 1.3em;
-  width: 1.2em;
+  width: 1em;
   fill: grey;
 }
 
