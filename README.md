@@ -38,7 +38,7 @@ If you would like to add a game, you can do so [by clicking here](https://github
 
 - [OutRed](https://www.github.com/OutRed)
 
-## Liscence
+## Licence
 You may fork this repo to deploy an unblocked copy, but you must do it according to the liscence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way.
 
 
