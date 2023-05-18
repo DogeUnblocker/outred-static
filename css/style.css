@@ -120,7 +120,7 @@ body {
   }
 
   .popularapp:hover {
-    transform: scale(.95);
+    transform: scale(1.1);
     cursor: pointer;
     background-color: #880ED4;
     z-index: 1;
@@ -128,7 +128,7 @@ body {
   }
 
   .popularapp:active {
-    transform:scale(.98);
+    opacity: 0.5;
   }
 
   .popularapp h2 {
