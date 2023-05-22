@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Settings | OutRed</title>
+  <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
   <link rel="stylesheet" href="/css/style.css">
   <script async src="https://arc.io/widget.min.js#U4o8gDrC"></script>
    <!-- Google tag (gtag.js) -->
@@ -89,6 +90,30 @@
   text-align: left;
 }
 </style>
+<style>
+  ul {
+  list-style-type: none;
+  margin: 1%;
+  padding: 5px;
+}
+
+li {
+  display: inline;
+  margin: 5px;
+}
+
+li:active {
+  text-decoration: underline;
+}
+
+footer {
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  height: auto;
+  left: 0;
+ }
+</style>
 </head>
 <body>
       <div class="nav">
@@ -96,8 +121,7 @@
         <a href="/index.html">Home</a>
         <a href="/g/index.html">Games</a>
         <a href="/main/apps.html">Apps</a>
-        <a href="/main/hb.html">Unblocker</a>
-        <a href="/main/hacks.html">Hacks</a>
+        <a class="alert" onclick="alert('Hello there!\n\ \n\The proxies are now located under the apps page.');">Proxies</a>
         <a class="active" href="/main/settings.html">Settings</a>
     </div>
         <br>
@@ -129,6 +153,11 @@
 <br>
 <!-- End code here -->
 </div>
+<center><footer><ul>
+  <li><a href="https://discord.gg/PBmrGy8EPh" target="_blank">Discord</a></li>
+  <li><a href="#">&copy; OutRed 2023</a></li>
+  <li><a href="https://github.com/ccsgames/outred-static" target="_blank">GitHub</a></li>
+</ul></footer></center>
           <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
     new Crate({
         server: '1012472708010889217', // OutRed Hub
