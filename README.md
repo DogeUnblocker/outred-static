@@ -15,7 +15,7 @@ This website offers games to play, unblockers, and much more.
 - Meme Soundboard ✱
 - Hacks to Educational Games ✱
 ## Deploy Unblocked Copy (Note: Some games will not work on other links due to compatibility)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/OutRed/outred.github.io)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ccsgames/outred-static)
 ## Links:
 - https://outred.github.io
 - https://outred-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
@@ -38,8 +38,8 @@ If you would like to add a game, you can do so [by clicking here](https://github
 
 - [OutRed](https://www.github.com/OutRed)
 
-## Liscence
-You may fork this repo to deploy an unblocked copy, but you must do it according to the liscence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way.
+## Licence
+You may fork this repo to deploy an unblocked copy, but you must do it according to the licence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way.
 
 
 ✱ In beta, will not work until removed.
