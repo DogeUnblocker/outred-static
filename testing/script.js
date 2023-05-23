@@ -5,14 +5,24 @@ fetch('/testing/links.json')
     const linkList = document.getElementById('linkList');
 
     // Iterate through each link and create list items
-    links.forEach(link => {
+    links.forEach((link, index) => {
       const listItem = document.createElement('li');
       const hyperlink = document.createElement('a');
       hyperlink.href = 'load.html';
-      hyperlink.target = 'contentFrame';
+      hyperlink.dataset.index = index;
       hyperlink.textContent = link.label;
 
       listItem.appendChild(hyperlink);
       linkList.appendChild(listItem);
+    });
+
+    // Handle link clicks
+    linkList.addEventListener('click', event => {
+      if (event.target.tagName === 'A') {
+        const selectedIndex = event.target.dataset.index;
+
+        // Store the selected link index in localStorage
+        localStorage.setItem('selectedLinkIndex', selectedIndex);
+      }
     });
   });
