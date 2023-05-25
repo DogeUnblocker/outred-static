@@ -36,9 +36,9 @@ fetch('/js/json/games.json')
         game.innerHTML = `<a href="#"onclick="localStorage.setItem('currentgame', '${item.link}'); window.location.href = '/testing/new-loading-system/load-test.html';"><img src="${item.image}" loading="lazy"; alt="${item.title}"><h2>${item.title}</h2></a>`;
         gamesContainer.appendChild(game);
 
-        // Add event listener to the game element to show the iframe popup
+         // Add event listener to the game element to show the iframe popup
         game.addEventListener("click", () => {
-          // Create the iframe element
+          /* Create the iframe element
           const iframe = document.createElement("iframe");
           iframe.src = item.link;
 
@@ -72,7 +72,7 @@ fetch('/js/json/games.json')
           iframe.style.filter = "none";
           iframe.style.boxShadow = "0px 0px 35px #000000";
 
-          /* makes the back arrow button to exit the iframe, also with css */
+          // makes the back arrow button to exit the iframe, also with css 
           // select the body and button with const variable
           const body = document.querySelector('body');
           const backButton = document.createElement('button');
@@ -168,6 +168,7 @@ fetch('/js/json/games.json')
           document.body.appendChild(fullscreenButton);  
           // Add the iframe to the document
           document.body.appendChild(iframe);
+          */
         });
       });
     }
