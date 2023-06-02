@@ -8,8 +8,12 @@
     <title>OutRed | Play your favorite games anytime, anywhere.</title>
     <style>
         iframe {
+            /*
             height: 45vw;
             width: 75vw;
+            */
+            height: 650px;
+            width: 1000px;
             border: 4px solid black;
             border-radius: 6px;
             background: #191919;
@@ -21,7 +25,7 @@
         }
 
         .content {
-            width: 1060px;
+            width: 1000px;
         }
 
         ul {
@@ -38,6 +42,10 @@ li {
 li:active {
   text-decoration: underline;
 }
+
+.big-boy-right {
+    
+}
     </style>
   </head>
   <body>
@@ -51,11 +59,20 @@ li:active {
         <a href="/main/apps.html">Apps</a>
         <a class="alert" onclick="alert('Hello there!\n\ \n\The proxies are now located under the apps page.');">Proxies</a>
         <a href="/main/settings.html">Settings</a>
-    </div><br><br><br>
+    </div>
+    <div class="big-boy-right">
+    </div>
+    <br><br><br>
     <div class="content">
     <div class="game-frame-div" style="margin: 0 auto;">
       <iframe id="game-frame" scrolling="yes" frameborder="0" cellspacing="0" src="#"></iframe>
-      <h1 style="font-weight: normal; text-align: left;" id="g-name">Cannot fetch current game name</h1>
+<div class="bar">
+    <h1 style="font-weight: normal; text-align: left;" id="g-name">Cannot fetch current game name</h1>
+    <div class="buttons">
+      <div><img class="fullscreen-svg" onclick="fullscreenFunction()" src="/img/fullscreen-icon.php.png" draggable="false"></div>
+      <div><img class="share-icon" onclick="shareFunction()" src="/img/share-icon.png" draggable="false"></div>
+    </div>
+  </div>
       <p style="font-weight: normal; text-align: left;" id="g-description">Cannot fetch current game description</p>
       </div>
     </div>

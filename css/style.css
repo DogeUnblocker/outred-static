@@ -554,3 +554,66 @@ input:focus + input {
  .apps:active {
   transform: scale(0.9);
  }
+/*
+ .fullscreen-svg {
+  height: auto;
+  width: 22px;
+  background-color: #A020F0;
+  padding: 9px;
+  border-radius: 12px;
+  transition: 0.3s;
+ }
+
+
+ .fullscreen-svg:hover {
+  transform: scale(1.15);
+  cursor: pointer;
+ }
+
+ .share-icon {
+  height: auto;
+  width: 24px;
+  background-color: #A020F0;
+  padding: 8px;
+  border-radius: 12px;
+  transition: 0.3s;
+ }
+
+ .share-icon:hover {
+  transform: scale(1.15);
+  cursor: pointer;
+ }
+
+.bar {
+  margin: 1%;
+  display: inline;
+}
+*/
+
+.bar {
+  display: flex;
+  align-items: center;
+}
+
+.buttons {
+  margin-left: auto;
+  display: flex;
+  gap: 5px;
+}
+
+.fullscreen-svg,
+.share-icon {
+  height: auto;
+  width: 22px;
+  background-color: #A020F0;
+  padding: 9px;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.fullscreen-svg:hover,
+.share-icon:hover {
+  transform: scale(1.15);
+  cursor: pointer;
+}
+

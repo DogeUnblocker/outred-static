@@ -33,3 +33,21 @@ async function fetchJSONData(url) {
       console.error('Error:', error);
     });
   
+    function fullscreenFunction() {
+        const iframe = document.getElementById('game-frame');
+      
+        if (iframe.requestFullscreen) {
+          iframe.requestFullscreen();
+        } else if (iframe.mozRequestFullScreen) { // Firefox
+          iframe.mozRequestFullScreen();
+        } else if (iframe.webkitRequestFullscreen) { // Chrome, Safari and Opera
+          iframe.webkitRequestFullscreen();
+        } else if (iframe.msRequestFullscreen) { // IE/Edge
+          iframe.msRequestFullscreen();
+        }
+      }
+      
+      // Example usage:
+      const fullscreenButton = document.querySelector('.fullscreen-svg');
+      fullscreenButton.addEventListener('click', fullscreenFunction);
+      
