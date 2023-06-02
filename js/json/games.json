@@ -1,302 +1,362 @@
 [
-    {
-      "title": "N-Gon",
-      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/n-gonimg.png",
-      "link": "https://cdn.outred.org/n-gon/index.html"
+  {
+    "title": "N-Gon",
+    "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/n-gonimg.png",
+    "link": "https://cdn.outred.org/n-gon/index.html",
+    "description": "N-Gon is a challenging puzzle game where you need to rotate and arrange polygons to fill the grid and complete each level. Test your spatial reasoning and problem-solving skills in this addictive game."
+  },
+  {
+    "title": "Cookie Clicker",
+    "image": "https://raw.githubusercontent.com/ccsgames/outred-static/main/img/cookieclicker.png",
+    "link": "https://cdn.outred.org/cookie-clicker/index.html",
+    "description": "Cookie Clicker is a fun idle game where you click on a giant cookie to earn cookies. Use your cookies to buy upgrades and unlock new features. Can you become the ultimate cookie master?"
+  },
+  {
+    "title": "Idle Breakout",
+    "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/idlebreakout.png",
+    "link": "https://cdn.outred.org/idle-breakout/index.html",
+    "description": "Idle Breakout combines idle gameplay with classic brick-breaking action. Break bricks, earn resources, and upgrade your tools to break even more bricks. How high can you climb on the leaderboard?"
+  },
+  {
+    "title": "Among Us",
+    "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/amongus.jpg",
+    "link": "https://cdn.outred.org/among-us/index.html",
+    "description": "Among Us is an online multiplayer game of teamwork and betrayal. Work together with other players to complete tasks on a spaceship, but beware of impostors among you. Can you identify the impostors and survive?"
+  },
+  {
+    "title": "1v1.lol",
+    "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp",
+    "link": "https://cdn.outred.org/1v1lol/index.html",
+    "description": "1v1.lol is a fast-paced building and shooting game. Build structures to protect yourself and outplay your opponents in intense 1v1 battles. Show off your building and shooting skills in this action-packed game."
+  },
+  {
+    "title": "Krunker",
+    "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/krunker.png",
+    "link": "https://cdn.outred.org/krunker/index.html",
+    "description": "Krunker is a popular online first-person shooter game. Join multiplayer matches and compete against players from around the world. Use a variety of weapons and prove your skills in this fast-paced shooter."
+  },
+  {
+      "title": "Zombs Royale",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/zombs.png",
+      "link": "https://cdn.outred.org/zombsroyale/index.html",
+      "description": "Zombs Royale is a multiplayer battle royale game. Drop onto the map, collect weapons, and fight against other players to be the last one standing. Can you survive and claim victory?"
     },
     {
-      "title": "Cookie Clicker",
-      "image": "https://raw.githubusercontent.com/ccsgames/outred-static/main/img/cookieclicker.png",
-      "link": "https://cdn.outred.org/cookie-clicker/index.html"
+      "title": "You're Jeff Bezos",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/jeffbezos.jpg",
+      "link": "https://cdn.outred.org/youre-jeff-bezos/index.html",
+      "description": "You're Jeff Bezos is a satirical game where you play as Jeff Bezos, the CEO of Amazon. Make decisions, earn money, and shape the world according to your desires. Experience the life of a billionaire in this humorous game."
     },
     {
-      "title": "Idle Breakout",
-      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/idlebreakout.png",
-      "link": "https://cdn.outred.org/idle-breakout/index.html"
+      "title": "Tunnel Rush",
+      "description": "Tunnel Rush is a fast-paced arcade game where you navigate through a colorful tunnel filled with obstacles. Test your reflexes and see how far you can go!",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg",
+      "link": "https://cdn.outred.org/tunnel-rush/index.html"
     },
     {
-      "title": "Among Us",
-      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/amongus.jpg",
-      "link": "https://cdn.outred.org/among-us/index.html"
+      "title": "Arena Scratch",
+      "description": "Arena Scratch is an interactive scratch card game set in an exciting arena. Scratch off the panels and uncover hidden symbols to win rewards!",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/arena.png",
+      "link": "https://cdn.outred.org/arena-scratch/index.html"
     },
     {
-      "title": "1v1.lol",
-      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp",
-      "link": "https://cdn.outred.org/1v1lol/index.html"
+      "title": "Flappy Bird",
+      "description": "Flappy Bird is a classic and addictive side-scrolling game where you control a bird and navigate it through gaps between pipes. How far can you fly without crashing?",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/flappybird.png",
+      "link": "https://cdn.outred.org/flappy"
     },
     {
-      "title": "Krunker",
-      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/krunker.png",
-      "link": "https://cdn.outred.org/krunker/index.html"
+      "title": "Slope",
+      "description": "Slope is a thrilling 3D running game where you control a ball rolling down a never-ending slope. Dodge obstacles, collect gems, and challenge your reflexes!",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/38AD7E36-E391-451F-9BBA-AE8F85073A91.jpeg",
+      "link": "https://cdn.outred.org/slope/index.html"
     },
     {
-        "title": "Zombs Royale",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/zombs.png",
-        "link": "https://cdn.outred.org/zombsroyale/index.html"
-      },
-      {
-        "title": "You're Jeff Bezos",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/jeffbezos.jpg",
-        "link": "https://cdn.outred.org/youarejeffbezos.html"
-      },
-      {
-        "title": "Tunnel Rush",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg",
-        "link": "https://cdn.outred.org/tunnel-rush/index.html"
-      },
-      {
-        "title": "Arena Scratch",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/arena.png",
-        "link": "https://cdn.outred.org/arena-scratch/index.html"
-      },
-      {
-        "title": "Flappy Bird",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/flappybird.png",
-        "link": "https://cdn.outred.org/flappy"
-      },
-      {
-        "title": "Slope",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/38AD7E36-E391-451F-9BBA-AE8F85073A91.jpeg",
-        "link": "https://cdn.outred.org/slope/index.html"
-      },
-      {
-        "title": "2048",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/2048_logo.svg.webp",
-        "link": "https://cdn.outred.org/2048/index.html"
-      },
-      {
-        "title": "Dino Game 3D",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/dino3d.webp",
-        "link": "https://cdn.outred.org/dino3d"
-      },
-      {
-        "title": "Worlds Hardest Game",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/g/worlds-hardest-game/images/splash.jpg",
-        "link": "https://cdn.outred.org/worlds-hardest-game/index.html"
-      },
-      {
-        "title": "Backrooms",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/backroomsimg.jpg",
-        "link": "https://cdn.outred.org/backrooms/index.html"
-      },
-      {
-        "title": "Paper.io 2",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/paper.jpg",
-        "link": "https://cdn.outred.org/paperio2/index.html"
-      },
-      {
-        "title": "CS Go Clicker",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/csgo-case-clicker.jpg",
-        "link": "https://cdn.outred.org/csgo-clicker/index.html"
-      },
-      {
-        "title": "Shell Shockers",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/shellshock.png",
-        "link": "https://cdn.outred.org/shellshockers/index.html"
-      },
-      {
-        "title": "Storm the House 2",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/storm-house-2.jpg",
-        "link": "https://cdn.outred.org/stormthehouse2/index.html"
-      },
-      {
-        "title": "Duck Life 1",
-        "image": "https://raw.githubusercontent.com/ccsgames/outred-static/main/img/duck-life.jpg",
-        "link": "https://cdn.outred.org/ducklife1/index.html"
-      },
-      {
-        "title": "Duck Life 2",
-        "image": "https://raw.githubusercontent.com/ccsgames/outred-static/main/img/ducklife2.jpeg",
-        "link": "https://cdn.outred.org/ducklife2/index.html"
-      },
-      {
-        "title": "Duck Life 3",
-        "image": "https://raw.githubusercontent.com/ccsgames/outred-static/main/img/ducklife3.jpeg",
-        "link": "https://cdn.outred.org/ducklife3/index.html"
-      },
-      {
-        "title": "Basketball Stars",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/basketball-stars/assets/images/basketball-stars.png",
-        "link": "https://cdn.outred.org/basketball-stars/index.html"
-      },
-      {
-        "title": "BitLife",
-        "image": "https://raw.githubusercontent.com/ccsgames/outred-assets-cdn.outred.org/main/bitlife/splash.png",
-        "link": "https://cdn.outred.org/bitlife/index.html"
-      },
-      {
-        "title": "Draw the Hill",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/draw-the-hill/icons/icon-512.png",
-        "link": "https://cdn.outred.org/draw-the-hill/index.html"
-      },
-      {
-        "title": "Elastic Man",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/elasticman/elasticman.jpg",
-        "link": "https://cdn.outred.org/elasticman/index.html"
-      },
-      {
-        "title": "Moto X3M",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/motox3m/splash.jpg",
-        "link": "https://cdn.outred.org/motox3m/index.html"
-      },
-      {
-        "title": "Moto X3M Pool",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/motox3m-pool/splash.jpg",
-        "link": "https://cdn.outred.org/motox3m-pool/index.html"
-      },
-      {
-        "title": "Moto X3M Spooky",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/motox3m-spooky/splash.jpeg",
-        "link": "https://cdn.outred.org/motox3m-spooky/index.html"
-      },
-      {
-        "title": "Moto X3M Winter",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/motox3m-winter/download.jpeg",
-        "link": "https://cdn.outred.org/motox3m-winter/index.html"
-      },
-      {
-        "title": "Retro Bowl",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/retro-bowl/img/icon.jpg",
-        "link": "https://cdn.outred.org/retro-bowl/index.html"
-      },
-      {
-        "title": "Super Mario 64",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/sm64/logo.png",
-        "link": "https://cdn.outred.org/sm64/index.html"
-      },
-      {
-        "title": "Worlds Hardest Game 2",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
-        "link": "https://cdn.outred.org/worlds-hardest-game-2/index.html"
-      },
-      {
-        "title": "Hacker Typer",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/hackertype/logo192.png",
-        "link": "https://cdn.outred.org/hackertype/index.html"
-      },
-      {
-        "title": "JustFall.lol",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/just-fall/unnamed.png",
-        "link": "https://cdn.outred.org/just-fall/index.html"
-      },
-      {
-        "title": "Champion Island",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/champion-island/logo.jpg",
-        "link": "https://cdn.outred.org/champion-island/index.html"
-      },
-      {
-        "title": "Chrome Dino",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/chrome-dino/icons/icon-256.png",
-        "link": "https://cdn.outred.org/chrome-dino/index.html"
-      },
-      {
-        "title": "Cluster Rush",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/cluster-rush/splash.png",
-        "link": "https://cdn.outred.org/cluster-rush/index.html"
-      },
-      {
-        "title": "Chill Radio",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/chill-radio/img/icon.png",
-        "link": "https://cdn.outred.org/chill-radio/index.html"
-      },
-      {
-        "title": "Getting Over It",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/getting-over-it/Scratch%20Getting%20Over%20It.webp",
-        "link": "https://cdn.outred.org/getting-over-it/index.html"
-      },
-      {
-        "title": "Subway Surfers",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/subway-surfers/img/subwaysurfers.webp",
-        "link": "https://cdn.outred.org/subway-surfers/index.html"
-      },
-      {
-        "title": "Particle Clicker",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/particle-clicker/particleclicker.png",
-        "link": "https://cdn.outred.org/particle-clicker/index.html"
-      },
-      {
-        "title": "Geometry Dash",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/geometry-dash/splash.PNG",
-        "link": "https://cdn.outred.org/geometry-dash/index.html"
-      },
-      {
-        "title": "Doom",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/doom/splash.jpg",
-        "link": "https://cdn.outred.org/doom/index.html"
-      },
-      {
-        "title": "Paper Minecraft",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/paper-minecraft/paper-minecraft.png",
-        "link": "https://cdn.outred.org/paper-minecraft/index.html"
-      },
-      {
-        "title": "Merge",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/merge/splash.png",
-        "link": "https://cdn.outred.org/merge/index.html"
-      },
-      {
-        "title": "Rolling Ball",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/rolling-ball/rollingball.png",
-        "link": "https://cdn.outred.org/rolling-ball/index.html"
-      },
-      {
-        "title": "Ball Blast",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/ball-blast/ballblast.png",
-        "link": "https://cdn.outred.org/ball-blast/index.html"
-      },
-      {
-        "title": "Rabbit Samurai",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/rabbit-samurai/splash.png",
-        "link": "https://cdn.outred.org/rabbit-samurai/index.html"
-      },
-      {
-        "title": "Rabbit Samurai 2",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/rabbit-samurai2/splash.png",
-        "link": "https://cdn.outred.org/rabbit-samurai2/index.html"
-      },
-      {
-        "title": "Doodle Jump",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/doodle-jump/doodle.png",
-        "link": "https://cdn.outred.org/doodle-jump/index.html"
-      },
-      {
-        "title": "Crossy Road",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/crossyroad/crossyroad.png",
-        "link": "https://cdn.outred.org/crossyroad/index.html"
-      },
-      {
-        "title": "10 Minutes till Dawn",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/10-minutes-till-dawn/splash.png",
-        "link": "https://cdn.outred.org/10-minutes-till-dawn/index.html"
-      },
-      {
-        "title": "Friday Night Funkin",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/fridaynightfunkin/fnf-icon.jpg",
-        "link": "https://cdn.outred.org/fridaynightfunkin/index.html"
-      },
-      {
-        "title": "Riddle School 1",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool/riddleschool.png",
-        "link": "https://cdn.outred.org/riddleschool/index.html"
-      },
-      {
-        "title": "Riddle School 2",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool2/riddleschool2.png",
-        "link": "https://cdn.outred.org/riddleschool2/index.html"
-      },
-      {
-        "title": "Riddle School 3",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool3/riddleschool3.png",
-        "link": "https://cdn.outred.org/riddleschool3/index.html"
-      },
-      {
-        "title": "Riddle School 4",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool4/riddleschool4.png",
-        "link": "https://cdn.outred.org/riddleschool4/index.html"
-      },
-      {
-        "title": "Riddle School 5",
-        "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool5/riddleschool5.png",
-        "link": "https://cdn.outred.org/riddleschool5/index.html"
-      }
+      "title": "2048",
+      "description": "2048 is a popular puzzle game where you slide numbered tiles on a grid to combine them and reach the elusive 2048 tile. Can you conquer the challenge?",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/2048_logo.svg.webp",
+      "link": "https://cdn.outred.org/2048/index.html"
+    },
+    {
+      "title": "Dino Game 3D",
+      "description": "Dino Game 3D is an exciting platformer where you control a cute dinosaur on a mission to collect eggs and overcome obstacles. Help the dino complete its adventure!",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/dino3d.webp",
+      "link": "https://cdn.outred.org/dino3d"
+    },
+    {
+      "title": "Worlds Hardest Game",
+      "description": "Worlds Hardest Game is a challenging puzzle game where you guide a red square through a maze of dangerous obstacles. Test your skills and patience!",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/g/worlds-hardest-game/images/splash.jpg",
+      "link": "https://cdn.outred.org/worlds-hardest-game/index.html"
+    },
+    {
+      "title": "Backrooms",
+      "description": "Backrooms is a horror-themed adventure game where you navigate through dark and eerie rooms. Can you escape the mysterious backrooms?",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/backroomsimg.jpg",
+      "link": "https://cdn.outred.org/backrooms/index.html"
+    },  
+    {
+      "title": "Paper.io 2",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/paper.jpg",
+      "link": "https://cdn.outred.org/paperio2/index.html",
+      "description": "Paper.io 2 is a multiplayer online game where you compete against players from around the world. Control your character and try to conquer as much territory as possible by drawing shapes. Be careful, as other players can collide with your trail and eliminate you. Expand your dominance and become the champion!"
+    },
+    {
+      "title": "CS Go Clicker",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/csgo-case-clicker.jpg",
+      "link": "https://cdn.outred.org/csgo-clicker/index.html",
+      "description": "CS Go Clicker is an idle clicker game based on the popular first-person shooter game, Counter-Strike: Global Offensive. Click on cases to earn money and unlock new weapons and equipment. Upgrade your weapons and participate in challenging missions. Can you become a skilled CS:GO player?"
+    },
+    {
+      "title": "Shell Shockers",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/shellshock.png",
+      "link": "https://cdn.outred.org/shellshockers/index.html",
+      "description": "Shell Shockers is a multiplayer first-person shooter game where you play as an egg armed with various weapons. Join egg battles against players from around the world and aim to crack their shells before they crack yours. Customize your egg's appearance and weapons and compete in different game modes."
+    },
+    {
+      "title": "Storm the House 2",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/storm-house-2.jpg",
+      "link": "https://cdn.outred.org/stormthehouse2/index.html",
+      "description": "Storm the House 2 is a shooting game where you must defend your house from waves of attackers. Use a variety of weapons and upgrades to eliminate the enemies before they destroy your house. Aim accurately and strategically deploy defenses to survive the onslaught and protect your territory."
+    },
+    {
+      "title": "Duck Life 1",
+      "image": "https://raw.githubusercontent.com/ccsgames/outred-static/main/img/duck-life.jpg",
+      "link": "https://cdn.outred.org/ducklife1/index.html",
+      "description": "Duck Life 1 is the first installment in the popular Duck Life series. Train your duckling in different activities such as running, swimming, and flying to prepare it for intense competitions. Earn coins, level up your duck, and become the ultimate champion. Are you ready to embark on an exciting duck training adventure?"
+    },
+    {
+      "title": "Duck Life 2",
+      "image": "https://raw.githubusercontent.com/ccsgames/outred-static/main/img/ducklife2.jpeg",
+      "link": "https://cdn.outred.org/ducklife2/index.html",
+      "description": "Duck Life 2 is the sequel to the beloved Duck Life game. Train your duck in multiple skills and compete in challenging races and tournaments. Explore new areas, interact with other ducks, and discover hidden treasures. Can you guide your duck to victory and become the ultimate champion?"
+    },
+    {
+      "title": "Duck Life 3",
+      "image": "https://raw.githubusercontent.com/ccsgames/outred-static/main/img/ducklife3.jpeg",
+      "link": "https://cdn.outred.org/ducklife3/index.html",
+      "description": "Duck Life 3 takes your duck on an adventure around the world. Train your duck in various activities like running, flying, and swimming to become a skilled athlete. Compete in races and tournaments against other ducks, and unlock new challenges and secrets. Prepare your duck for the ultimate test of skills!"
+    },
+    {
+      "title": "Basketball Stars",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/basketball-stars/assets/images/basketball-stars.png",
+      "link": "https://cdn.outred.org/basketball-stars/index.html",
+      "description": "Basketball Stars is a multiplayer basketball game where you can compete against other players in intense 1v1 matches. Show off your basketball skills, perform amazing dunks, and make incredible shots to outscore your opponents. Customize your player and rise to the top of the leaderboard in this fast-paced basketball showdown!"
+    },
+    {
+      "title": "BitLife",
+      "image": "https://raw.githubusercontent.com/ccsgames/outred-assets-cdn.outred.org/main/bitlife/splash.png",
+      "link": "https://cdn.outred.org/bitlife/index.html",
+      "description": "BitLife is a life simulation game where you can live an entire virtual life. Make choices and experience different scenarios as you navigate through various stages of life, from birth to old age. Your decisions will shape your character's life, relationships, career, and more. Will you make the right choices and lead a successful and fulfilling life?"
+    },
+    {
+      "title": "Draw the Hill",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/draw-the-hill/icons/icon-512.png",
+      "link": "https://cdn.outred.org/draw-the-hill/index.html",
+      "description": "Draw the Hill is a physics-based puzzle game where you need to use your creativity to draw lines and shapes to help a car overcome various obstacles. Strategically draw ramps, bridges, and other objects to guide the car safely to the finish line. Challenge your problem-solving skills and enjoy the fun and challenging levels!"
+    },
+    {
+      "title": "Elastic Man",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/elasticman/elasticman.jpg",
+      "link": "https://cdn.outred.org/elasticman/index.html",
+      "description": "Elastic Man is a fun and unique game where you control a stretchy character. Use your elastic abilities to launch yourself through the air and reach the target in each level. Stretch, bounce, and fling your way to success, overcoming various obstacles and challenges. How far can you stretch and how high can you soar?"
+    },
+    {
+      "title": "Moto X3M",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/motox3m/splash.jpg",
+      "link": "https://cdn.outred.org/motox3m/index.html",
+      "description": "Moto X3M is an exciting and challenging motorcycle racing game. Hop on your bike and navigate through a series of dynamic and obstacle-filled tracks. Perform flips, stunts, and daring maneuvers to earn points and complete levels. With its fast-paced gameplay and addictive challenges, Moto X3M will test your skills and keep you entertained for hours!"
+    },
+    {
+      "title": "Moto X3M Pool",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/motox3m-pool/splash.jpg",
+      "link": "https://cdn.outred.org/motox3m-pool/index.html",
+      "description": "Moto X3M Pool is a thrilling sequel to the popular Moto X3M series. This time, the tracks are set in a refreshing poolside environment. Ride your motorcycle through water-themed levels and perform cool stunts while avoiding various obstacles. Keep your balance and speed through each challenging course to reach the finish line!"
+    },
+    {
+      "title": "Moto X3M Spooky",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/motox3m-spooky/splash.jpeg",
+      "link": "https://cdn.outred.org/motox3m-spooky/index.html",
+      "description": "Moto X3M Spooky is a Halloween-themed installment of the Moto X3M series. Ride your motorbike through eerie and challenging levels filled with creepy obstacles. Race against time and complete each track with precision to unlock new spooky bikes. Do you have what it takes to conquer the haunted courses and become the ultimate Moto X3M rider?"
+    },
+    {
+      "title": "Moto X3M Winter",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/motox3m-winter/download.jpeg",
+      "link": "https://cdn.outred.org/motox3m-winter/index.html",
+      "description": "Moto X3M Winter is a frosty edition of the popular Moto X3M racing series. Hop on your motorcycle and brave the chilly winter tracks filled with icy slopes, snowmen, and other wintery obstacles. Race against time and perform daring stunts to earn stars and unlock new levels. Can you master the snowy terrain and complete all the challenges?"
+    },
+    {
+      "title": "Retro Bowl",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/retro-bowl/img/icon.jpg",
+      "link": "https://cdn.outred.org/retro-bowl/index.html",
+      "description": "Retro Bowl is a retro-style American football game where you take control of a football team. Manage your team's roster, call plays, and compete against other teams in thrilling matches. Make strategic decisions and lead your team to victory in this addictive and nostalgic football experience!"
+    },
+    {
+      "title": "Super Mario 64",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/sm64/logo.png",
+      "link": "https://cdn.outred.org/sm64/index.html",
+      "description": "Super Mario 64 is a classic 3D platformer where you control the iconic Mario on a quest to rescue Princess Peach from the clutches of Bowser. Explore the colorful and immersive world of Princess Peach's castle, solve puzzles, collect Power Stars, and defeat enemies in various levels. Relive the magic of this beloved Nintendo 64 game and embark on an unforgettable adventure!"
+    },
+    {
+      "title": "Worlds Hardest Game 2",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+      "link": "https://cdn.outred.org/worlds-hardest-game-2/index.html",
+      "description": "Worlds Hardest Game 2 is a challenging skill-based game that tests your reflexes and problem-solving abilities. Navigate through a series of increasingly difficult levels filled with moving obstacles and avoid touching them. Plan your moves carefully and strive to complete all the levels, but be prepared for a serious challenge!"
+    },
+    {
+      "title": "Hacker Typer",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/hackertype/logo192.png",
+      "link": "https://cdn.outred.org/hackertype/index.html",
+      "description": "Hacker Typer is an interactive web application that simulates the experience of typing like a hacker. Enter random commands and codes on the screen while the application generates dynamic hacker-style visuals and sounds. It's a fun and entertaining way to pretend you're a tech-savvy hacker!"
+    },
+    {
+      "title": "JustFall.lol",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/just-fall/unnamed.png",
+      "link": "https://cdn.outred.org/just-fall/index.html",
+      "description": "JustFall.lol is a fun and addictive multiplayer physics-based game. Compete against other players in real-time as you control a character trying to stay on platforms and avoid falling off. With a variety of challenging levels and chaotic gameplay, JustFall.lol guarantees hours of entertainment and laughter with friends!"
+    },
+    {
+      "title": "Champion Island",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/champion-island/logo.jpg",
+      "link": "https://cdn.outred.org/champion-island/index.html",
+      "description": "Champion Island is an enchanting RPG game set in a virtual world filled with sports challenges and delightful characters. Embark on a quest to become the ultimate champion across multiple sports, including archery, running, swimming, and more. With its captivating visuals and immersive gameplay, Champion Island offers an unforgettable gaming experience."
+    },
+    {
+      "title": "Chrome Dino",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/chrome-dino/icons/icon-256.png",
+      "link": "https://cdn.outred.org/chrome-dino/index.html",
+      "description": "Chrome Dino is a classic endless runner game that you can play directly in the Google Chrome browser when you're offline. Control a cute T-Rex and help it navigate through obstacles while running at high speeds. Test your reflexes and see how far you can go in this addictive and nostalgia-inducing game."
+    },
+    {
+      "title": "Cluster Rush",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/cluster-rush/splash.png",
+      "link": "https://cdn.outred.org/cluster-rush/index.html",
+      "description": "Cluster Rush is a fast-paced and challenging arcade game where you control a colorful character and try to dodge obstacles in a rotating cluster. With its vibrant visuals and addictive gameplay, Cluster Rush will test your reflexes and keep you entertained for hours as you strive for a high score."
+    },
+    {
+      "title": "Chill Radio",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/chill-radio/img/icon.png",
+      "link": "https://cdn.outred.org/chill-radio/index.html",
+      "description": "Chill Radio is a relaxing and immersive music experience where you can tune in to various stations and listen to a curated selection of chillout, ambient, and lo-fi music. Whether you want to unwind, focus, or simply enjoy good music, Chill Radio provides the perfect soundtrack for your day."
+    },
+    {
+      "title": "Getting Over It",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/getting-over-it/Scratch%20Getting%20Over%20It.webp",
+      "link": "https://cdn.outred.org/getting-over-it/index.html",
+      "description": "Getting Over It is a challenging and frustrating physics-based game where you control a character stuck in a cauldron and armed with a hammer. Climb your way up a mountain of obstacles using only the hammer's swinging motion. Prepare yourself for a test of patience, skill, and determination in this unconventional gaming experience."
+    },
+    {
+      "title": "Subway Surfers",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/subway-surfers/img/subwaysurfers.webp",
+      "link": "https://cdn.outred.org/subway-surfers/index.html",
+      "description": "Subway Surfers is an exciting endless runner game where you join Jake, Tricky, and Fresh on their escape from the grumpy Inspector and his dog. Run through the subway while dodging trains, collecting coins, and performing acrobatic moves. With its colorful graphics and addictive gameplay, Subway Surfers offers hours of thrilling entertainment."
+    },
+    {
+      "title": "Particle Clicker",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/particle-clicker/particleclicker.png",
+      "link": "https://cdn.outred.org/particle-clicker/index.html",
+      "description": "Particle Clicker is a simple and addictive incremental game where you play as a particle physicist trying to discover new particles. Click on the particles to generate research points and upgrade your laboratory equipment. Dive into the fascinating world of particle physics and see how far you can progress in this captivating clicker game."
+    },
+    {
+      "title": "Geometry Dash",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/geometry-dash/splash.PNG",
+      "link": "https://cdn.outred.org/geometry-dash/index.html",
+      "description": "Geometry Dash is a rhythm-based platformer game that will test your reflexes and timing. Jump, fly, and flip your way through dangerous obstacles and challenging levels. With its vibrant visuals, upbeat soundtrack, and addictive gameplay, Geometry Dash offers an electrifying experience for players of all skill levels."
+    },
+    {
+      "title": "Doom",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/doom/splash.jpg",
+      "link": "https://cdn.outred.org/doom/index.html",
+      "description": "Doom is a legendary first-person shooter game that pioneered the genre and remains a classic today. Step into the shoes of the Doom Marine and fight against hordes of demonic creatures from Hell. With its fast-paced action, intense atmosphere, and iconic weapons, Doom delivers an unforgettable and adrenaline-pumping gaming experience."
+    },
+    {
+      "title": "Paper Minecraft",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/paper-minecraft/paper-minecraft.png",
+      "link": "https://cdn.outred.org/paper-minecraft/index.html",
+      "description": "Paper Minecraft is a 2D sandbox game inspired by the popular Minecraft. Explore a blocky world filled with resources, craft tools, build structures, and survive against various creatures. With its retro-style graphics and open-ended gameplay, Paper Minecraft offers endless possibilities for creative adventures."
+    },
+    {
+      "title": "Merge",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/merge/splash.png",
+      "link": "https://cdn.outred.org/merge/index.html",
+      "description": "Merge is an addictive puzzle game where you combine matching elements to create new and more valuable items. Merge identical items to unlock new levels, earn points, and discover unique combinations. With its simple yet challenging gameplay, Merge offers a relaxing and rewarding experience for puzzle enthusiasts."
+    },
+    {
+      "title": "Rolling Ball",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/rolling-ball/rollingball.png",
+      "link": "https://cdn.outred.org/rolling-ball/index.html",
+      "description": "Rolling Ball is a thrilling arcade game where you control a ball and navigate through an obstacle-filled track. Tilt your device or use the arrow keys to guide the ball, avoid pitfalls, and collect gems along the way. With its smooth controls and captivating levels, Rolling Ball guarantees hours of exciting and challenging gameplay."
+    },
+    {
+      "title": "Ball Blast",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/ball-blast/ballblast.png",
+      "link": "https://cdn.outred.org/ball-blast/index.html",
+      "description": "Ball Blast is an addictive arcade game where you shoot balls to destroy blocks and prevent them from reaching the bottom. Upgrade your cannon, unlock power-ups, and unleash a barrage of balls to obliterate everything in your path. With its simple controls and satisfying destruction mechanics, Ball Blast offers a satisfying and action-packed gaming experience."
+    },
+    {
+      "title": "Rabbit Samurai",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/rabbit-samurai/splash.png",
+      "link": "https://cdn.outred.org/rabbit-samurai/index.html",
+      "description": "Rabbit Samurai is a charming puzzle game where you help a cute rabbit samurai rescue captured animals. Solve a series of challenging puzzles by slicing objects, avoiding dangerous traps, and outsmarting enemies. With its delightful visuals and brain-teasing levels, Rabbit Samurai provides a delightful and engaging gameplay experience."
+    },
+    {
+      "title": "Rabbit Samurai 2",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/rabbit-samurai2/splash.png",
+      "link": "https://cdn.outred.org/rabbit-samurai2/index.html",
+      "description": "Rabbit Samurai 2 is the thrilling sequel to the original Rabbit Samurai game. Join the brave rabbit samurai on a new adventure filled with more puzzles, enemies, and challenges. Slice your way through obstacles, collect carrots, and save your captured friends in this exciting continuation of the Rabbit Samurai series."
+    },
+    {
+      "title": "Doodle Jump",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/doodle-jump/doodle.png",
+      "link": "https://cdn.outred.org/doodle-jump/index.html",
+      "description": "Doodle Jump is a popular vertical platformer game where you guide a cute character named Doodle on an endless journey upwards. Tilt your device or use the arrow keys to jump from platform to platform, avoid enemies, and collect power-ups. With its simple controls and addictive gameplay, Doodle Jump provides hours of fun and challenging entertainment."
+    },
+    {
+      "title": "Crossy Road",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/crossyroad/crossyroad.png",
+      "link": "https://cdn.outred.org/crossyroad/index.html",
+      "description": "Crossy Road is a whimsical and addictive arcade game where you help a character cross an endless series of roads, rivers, and train tracks. Hop, dodge, and slide your way through traffic while avoiding various obstacles. With its charming pixel art style and addictive gameplay, Crossy Road offers a delightful and challenging experience for players of all ages."
+    },
+    {
+      "title": "10 Minutes till Dawn",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/10-minutes-till-dawn/splash.png",
+      "link": "https://cdn.outred.org/10-minutes-till-dawn/index.html",
+      "description": "10 Minutes till Dawn is an immersive interactive thriller game where you must make quick decisions to survive a night of terror. With only 10 minutes left till dawn, navigate through a haunting environment, solve puzzles, and uncover the secrets that lurk within. Can you escape before time runs out?"
+    },
+    {
+      "title": "Friday Night Funkin",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/fridaynightfunkin/fnf-icon.jpg",
+      "link": "https://cdn.outred.org/fridaynightfunkin/index.html",
+      "description": "Friday Night Funkin is a rhythm-based music game where you play as Boyfriend and aim to impress your Girlfriend's family through rap battles. Follow the rhythm, hit the right notes, and defeat a series of challenging opponents in this addictive and stylish game. Can you prove yourself as the ultimate rap master?"
+    },
+    {
+      "title": "Riddle School 1",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool/riddleschool.png",
+      "link": "https://cdn.outred.org/riddleschool/index.html",
+      "description": "Riddle School 1 is the first installment in the popular point-and-click puzzle game series. Join Phil, a student trapped in a boring school, as he embarks on a quest to escape. Solve clever puzzles, interact with quirky characters, and uncover the secrets of Riddle School. Can you find a way out?"
+    },
+    {
+      "title": "Riddle School 2",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool2/riddleschool2.png",
+      "link": "https://cdn.outred.org/riddleschool2/index.html",
+      "description": "Riddle School 2 continues the adventure of Phil, the smart and resourceful student. In this sequel, Phil finds himself trapped in another school with new challenges and puzzles to solve. Explore the environment, interact with objects, and outsmart your teachers to escape once again."
+    },
+    {
+      "title": "Riddle School 3",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool3/riddleschool3.png",
+      "link": "https://cdn.outred.org/riddleschool3/index.html",
+      "description": "Riddle School 3 takes Phil's escape journey to a whole new level. Join Phil and his friends as they venture outside the school and face even more mind-bending puzzles and challenges. Explore different locations, gather items, and use your wit to unravel the secrets of Riddle School."
+    },
+    {
+      "title": "Riddle School 4",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool4/riddleschool4.png",
+      "link": "https://cdn.outred.org/riddleschool4/index.html",
+      "description": "Riddle School 4 continues the captivating story of Phil and his friends. In this installment, the adventure takes them to an alien spaceship. Solve extraterrestrial puzzles, interact with bizarre creatures, and find a way back home. Can you escape the clutches of the alien abductors?"
+    },
+    {
+      "title": "Riddle School 5",
+      "image": "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/riddleschool5/riddleschool5.png",
+      "link": "https://cdn.outred.org/riddleschool5/index.html",
+      "description": "Riddle School 5 is the final chapter in the Riddle School series, offering an epic conclusion to the thrilling story. Join Phil and his friends as they embark on an adventure through time and space. Solve intricate puzzles, interact with historical figures, and unravel the mysteries that lie within. Can you save the world from an impending disaster?"
+    }
   ]
