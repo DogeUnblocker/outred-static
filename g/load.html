@@ -61,7 +61,8 @@ li:active {
     </div>
       <div class="line"></div>
       <h1 style="font-weight: normal;">You'll also like</h1><br>
-      <h1 class="recommended-g" style="font-weight:normal;">Error fetching recommended games</h1>
+      <div id="recommended-g">Error fetching recommended games</div>
+      <br>
     </div>
     </div>
     <div class="line"></div>
@@ -76,5 +77,6 @@ li:active {
       document.getElementById('g-name').textContent = localStorage.getItem("currenttitle");
       document.getElementById('g-description').textContent = localStorage.getItem("currentdescription");
     </script>
+    <script src="/g/recommended-g.js"></script>
   </body>
   </html>
