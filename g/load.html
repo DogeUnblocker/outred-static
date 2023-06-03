@@ -64,7 +64,7 @@ li:active {
     <h1 style="font-weight: normal; text-align: left;" id="g-name">Cannot fetch current game name</h1>
     <div class="buttons">
       <div><img class="fullscreen-svg" onclick="fullscreenFunction()" src="/img/fullscreen-icon.php.png" draggable="false"></div>
-      <div><img class="share-icon" onclick="shareFunction()" src="/img/share-icon.png" draggable="false"></div>
+      <div><img class="share-icon" onclick="showSharePopup()" src="/img/share-icon.png" draggable="false"></div>
     </div>
   </div>
       <p style="font-weight: normal; text-align: left;" id="g-description">Cannot fetch current game description</p>
@@ -76,6 +76,25 @@ li:active {
       <br>
     </div>
     </div>
+    <!-- share script -->
+    <script>
+        function showSharePopup() {
+          var gameUrl = document.getElementById("game-frame").src;
+          var encodedGameUrl = encodeURIComponent(gameUrl);
+          var shareUrl = "https://outred.org/g/load.html?src=" + encodedGameUrl;
+      
+          // Open a new window or create a custom popup with the share URL
+          var popupWidth = 500;
+          var popupHeight = 300;
+          var left = (window.innerWidth - popupWidth) / 2;
+          var top = (window.innerHeight - popupHeight) / 2;
+          var popup = window.open(
+            shareUrl,
+            "Share Popup",
+            "width=" + popupWidth + ",height=" + popupHeight + ",left=" + left + ",top=" + top
+          );
+        }
+      </script>
     <div class="line"></div>
     <center><footer><ul>
         <li><a href="https://discord.gg/PBmrGy8EPh" target="_blank">Discord</a></li>

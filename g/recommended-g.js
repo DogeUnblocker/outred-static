@@ -33,6 +33,7 @@ async function fetchJSONData(url) {
       console.error('Error:', error);
     });
   
+    // fullscreen function
     function fullscreenFunction() {
         const iframe = document.getElementById('game-frame');
       
@@ -47,7 +48,11 @@ async function fetchJSONData(url) {
         }
       }
       
-      // Example usage:
+      // Make the fullscreen button use the fullscreen function when clicked
       const fullscreenButton = document.querySelector('.fullscreen-svg');
       fullscreenButton.addEventListener('click', fullscreenFunction);
+
+      function shareFunction() {
+        
+      }
       
