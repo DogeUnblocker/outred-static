@@ -43,6 +43,47 @@ li:active {
   text-decoration: underline;
 }
     </style>
+
+<style>
+  .share-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid gray;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  }
+
+  .encoded-url {
+    margin-bottom: 20px;
+    word-break: break-all;
+  }
+
+  .copy-button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    color: gray;
+    cursor: pointer;
+  }
+</style>
   </head>
   <body>
     <script>
@@ -76,7 +117,52 @@ li:active {
       <br>
     </div>
     </div>
-    <!-- share script -->
+    <script>
+      function showSharePopup() {
+        var gameUrl = document.getElementById("game-frame").src;
+        var encodedGameUrl = encodeURIComponent(gameUrl);
+        var shareUrl = "https://outred.org/g/load.html?src=" + encodedGameUrl;
+    
+        var popup = document.createElement("div");
+        popup.className = "share-popup";
+    
+        var encodedUrl = document.createElement("div");
+        encodedUrl.className = "encoded-url";
+        encodedUrl.textContent = shareUrl;
+    
+        var copyButton = document.createElement("button");
+        copyButton.className = "copy-button";
+        copyButton.textContent = "Copy Link";
+        copyButton.addEventListener("click", function() {
+          copyToClipboard(shareUrl);
+          alert("Link copied to clipboard!");
+        });
+    
+        var closeButton = document.createElement("span");
+        closeButton.className = "close-button";
+        closeButton.textContent = "X";
+        closeButton.addEventListener("click", function() {
+          document.body.removeChild(popup);
+        });
+    
+        popup.appendChild(encodedUrl);
+        popup.appendChild(copyButton);
+        popup.appendChild(closeButton);
+    
+        document.body.appendChild(popup);
+      }
+    
+      function copyToClipboard(text) {
+        var textarea = document.createElement("textarea");
+        textarea.value = text;
+        textarea.style.position = "fixed"; // Prevent scrolling to bottom
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand("copy");
+        document.body.removeChild(textarea);
+      }
+    </script>
+    <!-- share script 
     <script>
         function showSharePopup() {
           var gameUrl = document.getElementById("game-frame").src;
@@ -95,6 +181,7 @@ li:active {
           );
         }
       </script>
+    -->
     <div class="line"></div>
     <center><footer><ul>
         <li><a href="https://discord.gg/PBmrGy8EPh" target="_blank">Discord</a></li>
