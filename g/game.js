@@ -33,7 +33,7 @@ fetch('/js/json/games.json')
       items.forEach(item => {
         const game = document.createElement('div');
         game.classList.add('game');
-        game.innerHTML = `<a href="./load.html"onclick="localStorage.setItem('currentgame', '${item.link}'); localStorage.setItem('currenttitle', '${item.title}'); localStorage.setItem('currentdescription', '${item.description}'); window.location.href = '/g/load.html';"><img src="${item.image}" loading="lazy"; alt="${item.title}"><h2>${item.title}</h2></a>`;
+        game.innerHTML = `<div onclick="localStorage.setItem('currentgame', '${item.link}'); localStorage.setItem('currenttitle', '${item.title}'); localStorage.setItem('currentdescription', '${item.description}'); window.location.href = '/g/load.html';"><img src="${item.image}" loading="lazy"; alt="${item.title}"><h2>${item.title}</h2></div>`;
         gamesContainer.appendChild(game);
 
          // Add event listener to the game element to show the iframe popup
