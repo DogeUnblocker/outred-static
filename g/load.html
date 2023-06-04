@@ -47,6 +47,7 @@ li:active {
 <style>
   .share-popup {
     position: fixed;
+    border-radius: 18px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -56,7 +57,7 @@ li:active {
     border: 1px solid gray;
     padding: 20px;
     text-align: center;
-    font-family: Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
   }
 
@@ -83,6 +84,10 @@ li:active {
     font-size: 20px;
     color: gray;
     cursor: pointer;
+  }
+
+  .popup-text {
+    color: black;
   }
 </style>
   </head>
@@ -126,14 +131,18 @@ li:active {
     
         var popup = document.createElement("div");
         popup.className = "share-popup";
+
+        var text = document.createElement("div");
+        text.className = "popup-text";
+        text.textContent = "Share this link to someone so they can play it too!"
     
-        var encodedUrl = document.createElement("div");
+        const encodedUrl = document.createElement("div");
         encodedUrl.className = "encoded-url";
         encodedUrl.textContent = shareUrl;
     
         var copyButton = document.createElement("button");
         copyButton.className = "copy-button";
-        copyButton.textContent = "Copy Link";
+        copyButton.textContent = "Copy";
         copyButton.addEventListener("click", function() {
           copyToClipboard(shareUrl);
           alert("Link copied to clipboard!");
@@ -190,7 +199,7 @@ li:active {
         <li><a href="https://github.com/ccsgames/outred-static" target="_blank">GitHub</a></li>
       </ul></footer></center>
     <script>
-      if (!localStorage.getItem('currentgame')) location.pathname = '/g/load';
+      if (!localStorage.getItem('currentgame')) location.pathname = '/g/load.html';
       document.getElementById('game-frame').src = localStorage.getItem("currentgame");
       document.getElementById('g-name').textContent = localStorage.getItem("currenttitle");
       document.getElementById('g-description').textContent = localStorage.getItem("currentdescription");
